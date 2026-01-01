@@ -1,5 +1,5 @@
 ---
-title: IRSA, Karpenter NodePool EC2Nodeclass
+title: IRSA, Karpenter NodePool and EC2Nodeclass
 pubDate: '2026-01-01'
 ---
 
