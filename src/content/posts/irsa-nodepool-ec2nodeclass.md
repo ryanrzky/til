@@ -3,7 +3,7 @@ title: IRSA, Karpenter NodePool and EC2Nodeclass
 pubDate: '2026-01-01'
 ---
 
-Konteks dari konten ini adalah [Karpenter](https://karpenter.sh)
+Konteks dari konten ini adalah [Karpenter.](https://karpenter.sh)
 
 # IRSA (IAM Role for Service Account)
 IAM Role yang digunakan oleh pod (dalam EKS Cluster) agar bisa berkomunikasi dengan AWS resources.
