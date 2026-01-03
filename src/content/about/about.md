@@ -7,6 +7,4 @@ This content will be displayed at the top of the index page.
 You can leave this empty if you don’t want to show any content.
 -->
 
-Will contain random things.
-
-Check out my [main site.](https://ryanrizky.com)
+Will contain random things. Check out my [main site.](https://ryanrizky.com)
